@@ -5,3 +5,4 @@
 Разборы инцидентов:
 1. Разбор PCAP файла http.cap.
 2. Разбор PCAP файла 2026-02-28 - TRAFFIC ANALYSIS EXERCISE: EASY AS 123.
+3. Разбор PCAP файла 2026-01-31 - TRAFFIC ANALYSIS EXERCISE: LUMMA IN THE ROOM-AH.
